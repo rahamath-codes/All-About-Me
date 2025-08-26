@@ -5,7 +5,7 @@ I have hands-on experience with **Java Full Stack** development including **Angu
 
 ## 🚀 About Me
 - 🎓 **Graduated in Electronics and Communication Engineering**.
-- 💻 I'm a **Software Developer** currently working at CodeBoard Technologies at Tharamni-Chennai in **Angular Js**, **React.js** for frontend and **SpringBoot with Java and MySQl** for Backend.
+- 💻 I'm a **Software Developer** currently working at CodeBoard Technologies at Tharamani-Chennai in **Angular Js**, **React.js** for frontend and **SpringBoot with Java and MySQl & MongoDB** for Backend.
 - 📚 Check out my projects in my other repositories to see the work I’ve done so far.
 
 Thank you for visiting my profile! 😊 
